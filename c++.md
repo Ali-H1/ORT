@@ -9,7 +9,6 @@
 ## Task2
 - Take [W3schools](https://www.w3schools.com/cpp/default.asp) c++ tutorial.
 - Take [TopLearn](https://toplearn.com/courses/-%D8%AA%D8%AD%D8%AA-%D9%88%DB%8C%D9%86%D8%AF%D9%88%D8%B2-/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%88-%D8%AC%D8%A7%D9%85%D8%B9-plusplusC-%D8%AA%D8%A7-%D8%B3%D8%B7%D8%AD-%DA%A9%D8%A7%D9%85%D9%84%D8%A7-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87)  c++ tutorial.
-- Read [The Quick Python Book ](http://128.174.51.21/teaching/SP2019/ASTR414/The_Quick_Python_Book.pdf) Book.
 
 ## Task3 
 1. Get familiar with [**Design Patterns**](https://sourcemaking.com/design_patterns).
