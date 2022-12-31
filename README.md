@@ -2,5 +2,5 @@
 Omid Robotics Team 
 
 # Road maps
-- [Machine Learning (python)](./courses/python.md)
-- [C++ programming](./courses/c++.md)
+- [Machine Learning (python)](./python.md)
+- [C++ programming](./c++.md)
